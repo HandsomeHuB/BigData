@@ -8,7 +8,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 import matplotlib  
 import matplotlib.cm as cm 
-from GetData2 import rootdir
+from GetData import rootdir
 #from pylab import *
 
 #rootdir = r'E:\陈翔老师实验室\dataGSMR\20170108\1024\\'#指明数据存放的位置

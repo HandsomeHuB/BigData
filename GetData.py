@@ -73,6 +73,6 @@ if __name__ == '__main__':
     io.savemat(rootdir+'qsup.mat', {'Grudata': Grudata})#要改Plot.py中的文件名！
 
 
-    os.system("python Plot2.py")#执行画图程序，不用管
+    os.system("python Plot.py")#执行画图程序，不用管
 
 
