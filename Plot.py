@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+'''
+本版本绘图与1.0版本完全一样
+'''
 from scipy import io
 import numpy as np
 from matplotlib import pyplot as plt
 import matplotlib  
 import matplotlib.cm as cm 
-from GetData import rootdir
+from GetData2 import rootdir
 #from pylab import *
 
 #rootdir = r'E:\陈翔老师实验室\dataGSMR\20170108\1024\\'#指明数据存放的位置
